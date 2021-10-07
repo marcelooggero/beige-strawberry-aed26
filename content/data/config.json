@@ -1,10 +1,10 @@
 {
     "title": "Stackbit Exto Theme",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "Marcelo",
+        "title": "MARCELO",
         "has_nav": true,
         "nav_links": [
             {
